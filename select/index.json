@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "CORE",
+  "base_artist": "SAKANAMON",
+  "createdAt": "2026-03-11T03:10:50.004541Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Core Shift",
+      "artist": "Yello",
+      "has_synced": true,
+      "path": "select/01_Core_Shift_Yello.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Step By Step (Core Mix)",
+      "artist": "Off",
+      "has_synced": false,
+      "path": "select/02_Step_By_Step_(Core_Mix)_Off.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mutual Core",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/03_Mutual_Core_Björk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mutual Core - 16-Bit Remix",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/04_Mutual_Core_-_16-Bit_Remix_Björk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mutual Core (16-bit Remix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/05_Mutual_Core_(16-bit_Remix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mutual Core (Matthew Herbert's Teutonic Plates Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/06_Mutual_Core_(Matthew_Herbert's_Teutonic_Plates_Mix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mutual Core (Matthew Herbert's Teutonic Plates Mix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/07_Mutual_Core_(Matthew_Herbert's_Teutonic_Plates_Mix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mutual Core (These New Puritans & Solomon Is. Song Remix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/08_Mutual_Core_(These_New_Puritans_&_Solomon_Is._Song_Remix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mutual Core (These New Puritans Remix Featuring Solomon Island Song)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/09_Mutual_Core_(These_New_Puritans_Remix_Featuring_Solomon_Island_Song)_Björk.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Apple Core",
+      "artist": "Catatonia",
+      "has_synced": false,
+      "path": "select/10_Apple_Core_Catatonia.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rotten to the Core",
+      "artist": "Lita Ford",
+      "has_synced": false,
+      "path": "select/11_Rotten_to_the_Core_Lita_Ford.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In the Core of a Flame",
+      "artist": "The Go-Betweens",
+      "has_synced": true,
+      "path": "select/12_In_the_Core_of_a_Flame_The_Go-Betweens.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Embodied Core of Darkness",
+      "artist": "Bloodthorn",
+      "has_synced": false,
+      "path": "select/13_The_Embodied_Core_of_Darkness_Bloodthorn.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CORE",
+      "artist": "SAKANAMON",
+      "has_synced": false,
+      "path": "select/pl_01_CORE_SAKANAMON.txt"
+    }
+  ]
+}
